@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Running with Python
+##  Running with Python
 
 1. Make sure Python is installed.
 2. Run the following command in the terminal or command prompt:
@@ -13,14 +13,14 @@
 py FileRenom.py
 ```
 
-> 💡 **Tip**: If you don't want to use the application icon, remove the following line in `FileRenom.py`:
+>  **Tip**: If you don't want to use the application icon, remove the following line in `FileRenom.py`:
 ```python
 root.iconbitmap("Icon.ico")
 ```
 
 ---
 
-## 🛠️ Creating the `.exe` File
+##  Creating the `.exe` File
 
 1. Install **Nuitka** (only once):
 
@@ -36,10 +36,10 @@ python -m nuitka FileRenom.py --standalone --enable-plugin=tk-inter --windows-ic
 
 ---
 
-## 📦 Creating an Installer with Inno Setup
+##  Creating an Installer with Inno Setup
 
 1. Download and install Inno Setup from:  
-   👉 [https://jrsoftware.org/isdl.php](https://jrsoftware.org/isdl.php)
+    [https://jrsoftware.org/isdl.php](https://jrsoftware.org/isdl.php)
 
 2. Create a file named `FileRenom.iss` in the project directory with the following content:
 
