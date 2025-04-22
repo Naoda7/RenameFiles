@@ -75,4 +75,6 @@ Filename: "{app}\FileRenom.exe"; Description: "Launch FileRenom"; Flags: nowait 
 
 4. Open the `.iss` file with **Inno Setup**, then press `Ctrl + F9` to compile it into an installer `.exe`.
 
+5. 🔗 **Quick Download for Windows**:  [Download](https://github.com/Naoda7/RenameFiles/releases/tag/renamefiles)
+
 ---
